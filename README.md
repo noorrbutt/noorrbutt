@@ -1,6 +1,10 @@
 <h1 align="center">Heya 👋, I'm Noor</h1>
 <h3 align="center">A passionate student and a learning developer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Coding;🌱+Learning+new+technologies;🎯+Improving+everyday;💡+Building+creative+solutions" alt="Typing animation" />
+</p>
+
 - 🔭 I’m currently working on **Library Management System**
 
 - 🌱 I’m currently doing **BSCS**
