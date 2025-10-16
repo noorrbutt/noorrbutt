@@ -72,6 +72,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=noorrbutt" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=noorrbutt&cache_bust=1" alt="GitHub Streak" />
 
 </p>
