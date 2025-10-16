@@ -72,5 +72,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorrbutt" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=noorrbutt" alt="GitHub Streak" />
+
 </p>
