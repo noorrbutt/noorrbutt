@@ -67,5 +67,14 @@
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=noorrbutt&show_icons=true&title_color=00C2FF&text_color=ffffff&icon_color=00C2FF&bg_color=0d1117" alt="Noor's GitHub stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noorrbutt&show_icons=true&theme=default&hide_border=true" alt="Noor's GitHub stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=noorrbutt&theme=default&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noorrbutt&show_icons=true&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
