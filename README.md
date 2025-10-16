@@ -67,10 +67,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noorrbutt&show_icons=true&locale=en&layout=compact" alt="noorrbutt" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorrbutt" alt="GitHub Streak"/>
-</p>
+<<img src="https://github-readme-stats.vercel.app/api?username=noorrbutt&show_icons=true&theme=tokyonight" alt="Noor's GitHub stats" />
