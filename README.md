@@ -67,4 +67,5 @@
   </a>
 </p>
 
-[![Noor's GitHub stats](https://github-readme-stats.vercel.app/api?username=noorrbutt&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=noorrbutt&show_icons=true&title_color=00C2FF&text_color=ffffff&icon_color=00C2FF&bg_color=0d1117" alt="Noor's GitHub stats" />
+
