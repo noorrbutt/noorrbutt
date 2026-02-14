@@ -90,3 +90,9 @@ Open to collaboration on meaningful software projects
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=noorrbutt&cache_bust=1" />
+</p>
