@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Noor</h1>
 <h3 align="center">BSCS 3rd Year Student | Backend-Focused Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=520&lines=💻+Backend+Development;🚀+Building+Full-Stack+Applications;⚡+Learning+FastAPI;🎯+Improving+Every+Day" alt="Typing animation" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -19,7 +15,7 @@
 
 ## 🛠 Tech Stack
 
-### Languages
+**Languages**
 <p>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
@@ -32,7 +28,7 @@
   </a>
 </p>
 
-### Frontend
+**Frontend**
 <p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
@@ -48,7 +44,7 @@
   </a>
 </p>
 
-### Backend
+**Backend**
 <p>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/> 
@@ -58,7 +54,7 @@
   </a>
 </p>
 
-### Databases
+**Databases**
 <p>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
@@ -68,7 +64,7 @@
   </a>
 </p>
 
-### Tools
+**Tools**
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
@@ -93,14 +89,4 @@ Open to collaboration on meaningful software projects
   <a href="https://github.com/noorrbutt" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noorrbutt&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=noorrbutt&cache_bust=1" />
 </p>
