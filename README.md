@@ -9,7 +9,7 @@
 - 💻 Focused on Backend & Full-Stack Development  
 - 🐍 Strong interest in Python-based web technologies  
 - ⚡ Currently learning **FastAPI**  
-- 📫 Reach me at: **noorrbutt@outlook.com**
+- 📫 Reach me at: **noorbbutt@gmail.com**
 
 ---
 
