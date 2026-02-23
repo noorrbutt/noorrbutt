@@ -1,6 +1,12 @@
 <h1 align="center">Hey 👋, I'm Noor</h1>
 <h3 align="center">BSCS 3rd Year Student | Backend-Focused Developer</h3>
 
+<p align="center">
+  🚀 <strong>Live Projects:</strong> 
+  <a href="https://librarymanagementsystem.up.railway.app/" target="_blank">Library Management System</a> | 
+  <a href="https://pathedplay.vercel.app/" target="_blank">PathedPlay</a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -8,7 +14,8 @@
 - 🎓 BSCS 3rd Year Student  
 - 💻 Focused on Backend & Full-Stack Development  
 - 🐍 Strong interest in Python-based web technologies  
-- ⚡ Currently learning **FastAPI**  
+- ⚡ **Built and deployed** production FastAPI + Django applications
+- 🌐 2 live applications serving real users on Railway & Vercel
 - 📫 Reach me at: **noorbbutt@gmail.com**
 
 ---
@@ -56,11 +63,11 @@
 
 **Databases**
 <p>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/> 
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40"/> 
   </a>
 </p>
 
@@ -68,6 +75,9 @@
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40"/> 
   </a>
 </p>
 
