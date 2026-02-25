@@ -14,9 +14,7 @@
 - 🎓 BSCS 3rd Year Student  
 - 💻 Focused on Backend & Full-Stack Development  
 - 🐍 Strong interest in Python-based web technologies  
-- ⚡ **Built and deployed** production FastAPI + Django applications
 - 🌐 2 live applications serving real users on Railway & Vercel
-- 📫 Reach me at: **noorbbutt@gmail.com**
 
 ---
 
