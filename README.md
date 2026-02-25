@@ -79,6 +79,9 @@
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40"/> 
   </a>
+  <a href="https://railway.app/" target="_blank" rel="noreferrer"> 
+  <img src="https://railway.app/brand/logo-dark.svg" width="40" height="40"/> 
+</a>
 </p>
 
 ---
