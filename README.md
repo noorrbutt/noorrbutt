@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Noor</h1>
-<h3 align="center">BSCS Student @ UBIT · Backend-Focused Developer · Karachi, Pakistan</h3>
+<h3 align="center">BSCS Student @ UBIT · Backend-Focused Developer </h3>
 
 <p align="center">
   🚀 <strong>Live Projects:</strong>&nbsp;
