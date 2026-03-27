@@ -61,22 +61,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 📚 [Library Management System](https://librarymsystem.vercel.app/)
-`Django` `PostgreSQL` `Bootstrap` `Chart.js` `Google OAuth` `Vercel` `Neon`
-
-Full-stack web app managing 500+ book records, member accounts, and issuance tracking. Features role-based auth, analytics dashboard with 6-month trend charts, automated fine calculation (PKR 500 for overdue), and Google OAuth login — deployed on Vercel with Neon PostgreSQL.
-
-### 🗺️ [PathedPlay](https://pathedplay.vercel.app/)
-`FastAPI` `React` `Vercel`
-
-Interactive pathfinding algorithm visualizer with real-time grid updates and step-by-step algorithm animation. Built with a React frontend and FastAPI backend, deployed on Vercel with CI/CD.
-
----
-
----
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=noorrbutt&cache_bust=1" />
 </p>
