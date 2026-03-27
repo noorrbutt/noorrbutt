@@ -12,11 +12,9 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 3rd Year BSCS student at University of Karachi (CGPA: 3.3/4.0)
-- 🐍 Building backends with **Django** and **FastAPI**
-- 🌐 2 live applications deployed on Vercel & Railway serving real users
+- 🎓 3rd Year BSCS student at University of Karachi
+- 🌐 2 live applications deployed on Vercel
 - 🔍 Currently exploring Docker, advanced PostgreSQL, and AWS
-- 📬 Reach me at **noorbbutt@gmail.com**
 
 ---
 
@@ -76,12 +74,6 @@ Full-stack web app managing 500+ book records, member accounts, and issuance tra
 Interactive pathfinding algorithm visualizer with real-time grid updates and step-by-step algorithm animation. Built with a React frontend and FastAPI backend, deployed on Vercel with CI/CD.
 
 ---
-
-## 🎯 Goals
-
-- 🔍 Seeking internship opportunities in **Backend or Full-Stack Development**
-- 🤝 Open to collaborating on meaningful software projects
-- 📦 Currently learning: Docker, Advanced PostgreSQL, AWS
 
 ---
 
