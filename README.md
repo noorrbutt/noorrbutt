@@ -14,7 +14,7 @@
 
 - 🎓 3rd Year BSCS student at University of Karachi
 - 🌐 2 live applications deployed on Vercel
-- 🔍 Currently exploring Mobile App Development
+- 🔍 Currently working on Django 
 
 ---
 
