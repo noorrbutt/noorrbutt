@@ -49,9 +49,3 @@
 | Git | Vercel | Railway |
 |-----|--------|---------|
 | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40"/> | <img src="https://railway.app/brand/logo-dark.svg" width="40" height="40"/> |
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=noorrbutt&cache_bust=1" />
-</p>
