@@ -1,51 +1,41 @@
-<h1 align="center">Hi👋, I'm Noor</h1>
-<h3 align="center">BSCS Student · Backend-Focused Developer</h3>
+## Noor Butt
 
-<p align="center">
-  🚀 <strong>Live Projects:</strong>&nbsp;
-  <a href="https://librarymsystem.vercel.app/" target="_blank">Library Management System</a>
-  &nbsp;|&nbsp;
-  <a href="https://pathedplay.vercel.app/" target="_blank">PathedPlay</a>
-</p>
+Backend developer based in Karachi. I build production-ready web backends with Django and FastAPI — multi-tenant architecture, REST APIs, real-time systems, and full deployments.
 
 ---
 
-### 👩‍💻 About Me
+### Core Stack
 
-- 🎓 3rd Year BSCS student at University of Karachi
-- 🌐 2 live applications deployed on Vercel
-- 🔍 Currently working on Django 
+**Backend** — Python · Django 5 · Django REST Framework · FastAPI · Django Channels  
+**Frontend** — React · HTML/CSS · JavaScript  
+**Databases** — PostgreSQL · SQLite  
+**Auth** — Google OAuth (django-allauth) · JWT  
+**Infra & Tools** — Git · Vercel · Railway · Neon · Cloudinary · Gunicorn  
+**Testing** — Django TestCase · pytest  
+**In progress** — Flutter · Docker  
 
 ---
 
-## 🛠 Tech Stack
+### Shipped
 
-**Languages**
+**[Library Management System](https://librarymsystem.vercel.app/)** `Django` `DRF` `PostgreSQL` `Google OAuth`  
+Multi-tenant library SaaS — each admin owns an isolated library with books, students, issuances, and analytics. 117 tests. CSV/PDF import-export. Live on Vercel + Neon.
 
-| Python | JavaScript | C++ |
-|--------|------------|-----|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> |
+**[PathedPlay](https://pathedplay.vercel.app/)** `FastAPI` `React` `Groq (Llama 3.1)` `PostgreSQL`  
+Branching narrative game engine — users enter a theme, the backend generates a 7-node decision-tree story via LLM in ~5 seconds. Fully playable in browser.
 
-**Frontend**
+---
 
-| HTML5 | CSS3 | React | Bootstrap |
-|-------|------|-------|-----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/> |
+### In Progress
 
-**Backend**
+**Trippy** `Django REST Framework` `Django Channels` `Flutter` `JWT`  
+Ride-sharing platform for female riders in Pakistan — separate rider/driver apps, real-time WebSocket location tracking, booking flow.
 
-| Django | FastAPI |
-|--------|---------|
-| <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/> |
+**Codebase Visualizer** `FastAPI` `React`  
+Dependency graph explorer for Python projects — force-directed interactive graph, dark terminal aesthetic.
 
-**Databases**
+---
 
-| PostgreSQL | MySQL |
-|------------|-------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> |
+### Contact
 
-**Tools & Platforms**
-
-| Git | Vercel | Railway |
-|-----|--------|---------|
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40"/> | <img src="https://railway.app/brand/logo-dark.svg" width="40" height="40"/> |
+· [Email](mailto:noorbbutt@gmail.com) · Karachi, Pakistan
