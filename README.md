@@ -29,10 +29,10 @@ Branching narrative game engine where users enter a theme, the backend generates
 ### In Progress
 
 **Trippy** `Django REST Framework` `Django Channels` `Flutter` `JWT`  
-Ride-sharing platform for female riders in Pakistan — separate rider/driver apps, real-time WebSocket location tracking, booking flow.
+Ride-sharing platform for female riders in Pakistan, separate rider/driver apps, real-time WebSocket location tracking, booking flow.
 
 **Codebase Visualizer** `FastAPI` `React`  
-Dependency graph explorer for Python projects — force-directed interactive graph, dark terminal aesthetic.
+Dependency graph explorer for GitHub projects
 
 ---
 
