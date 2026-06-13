@@ -19,7 +19,7 @@ Backend developer based in Karachi. I build production-ready web backends with D
 ### Shipped
 
 **[Library Management System](https://librarymsystem.vercel.app/)** `Django` `DRF` `PostgreSQL` `Google OAuth`  
-Multi-tenant library SaaS where each admin owns an isolated library with books, students, issuances, and analytics. 117 tests. CSV/PDF import-export. Live on Vercel + Neon.
+Multi-tenant library SaaS where each admin owns an isolated library with books, students, issuances, and analytics. CSV/PDF import-export. Live on Vercel + Neon.
 
 **[PathedPlay](https://pathedplay.vercel.app/)** `FastAPI` `React` `Groq (Llama 3.1)` `PostgreSQL`  
 Branching narrative game engine where users enter a theme, the backend generates a 7-node decision-tree story via LLM in ~5 seconds. Fully playable in browser.
