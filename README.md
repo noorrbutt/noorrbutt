@@ -1,6 +1,6 @@
 ## Noor Butt
 
-Backend developer based in Karachi. I build production-ready web backends with Django and FastAPI, multi-tenant architecture, REST APIs, real-time systems, and full deployments.
+Full Stack developer based in Karachi. I build production-ready web backends with Django and FastAPI, multi-tenant architecture, REST APIs, real-time systems, and full deployments.
 
 ---
 
