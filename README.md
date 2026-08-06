@@ -12,7 +12,7 @@ Full-stack developer based in Karachi. I build production-ready web backends: Dj
 - **Auth**: Google OAuth (django-allauth), JWT
 - **Infra & Tools**: Git, Vercel, Railway, Neon, Cloudinary, Gunicorn
 - **Testing**: Django TestCase, pytest
-- **In progress**: Flutter, Docker
+- **In progress**: React Native, Flutter, Docker
 
 ---
 
