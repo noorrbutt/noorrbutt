@@ -1,38 +1,41 @@
 ## Noor Butt
 
-Full-stack developer based in Karachi. I build production-ready web backends: Django and FastAPI, multi-tenant architecture, REST APIs, and real-time systems, and take them all the way through deployment.
+Full-stack developer based in Karachi, Pakistan. I build production web applications end to end: Django and FastAPI backends, React frontends, and the deployment that takes them live.
 
 ---
 
 ### Core Stack
 
-- **Backend**: Python, Django 5, Django REST Framework, FastAPI, Django Channels
-- **Frontend**: React, HTML/CSS, JavaScript
-- **Databases**: PostgreSQL, SQLite
-- **Auth**: Google OAuth (django-allauth), JWT
-- **Infra & Tools**: Git, Vercel, Railway, Neon, Cloudinary, Gunicorn
-- **Testing**: Django TestCase, pytest
-- **In progress**: React Native, Docker
+- **Backend**: Python, Django 5, Django REST Framework, FastAPI, SQLAlchemy 2.0, Django Channels
+- **Frontend**: React 19, TypeScript, Tailwind CSS, Vite, JavaScript, HTML/CSS
+- **Databases**: PostgreSQL, Redis, SQLite
+- **Auth**: JWT, Google OAuth (django-allauth), argon2
+- **Infra & Tools**: Git, GitHub Actions, Vercel, Railway, Neon, Upstash, Cloudinary, Gunicorn
+- **Testing**: pytest, Django TestCase
+- **Currently learning**: React Native, Docker
 
 ---
 
-### Shipped
+### Selected Work
+
+**[Woodcroft](https://woodcroft.vercel.app)** `FastAPI` `React 19` `PostgreSQL` `Neon` `Vercel`
+Production e-commerce platform for a handcrafted furniture retailer: a customer storefront and a full admin panel served by one API, covering catalog and faceted search, checkout, orders and refunds, inventory, promotions and CMS. Runs serverless on Vercel with Neon Postgres, Upstash Redis and CDN-backed media.
 
 **[Library Management System](https://librarymsystem.vercel.app/)** `Django` `DRF` `PostgreSQL` `Google OAuth`
-Multi-tenant library SaaS where each admin owns an isolated library with books, students, issuances, and analytics. CSV/PDF import and export. Live on Vercel and Neon.
+Multi-tenant library SaaS where each admin owns an isolated library with books, students, issuances and analytics, plus CSV and PDF import/export. Live on Vercel and Neon.
 
 **[Transporter Management System](https://github.com/noorrbutt/Transporter-Management-System)** `Django` `PostgreSQL` `Cloudinary` `Vercel`
-Fleet operations platform for a heavy-vehicle fuel transporter: drivers, vehicles, and oil-marketing-company relationships, plus compliance tracking (training, safety drills, tool-box meetings) and violation records. Generic CSV import/export pipeline with column mapping and a staged review step. Deployed serverlessly on Vercel with Neon Postgres and Cloudinary-backed media storage.
+Fleet operations platform for a heavy-vehicle fuel transporter: drivers, vehicles and oil-marketing-company relationships, compliance tracking and violation records. Includes a generic CSV import/export pipeline with column mapping and a staged review step.
 
 **[PathedPlay](https://pathedplay.vercel.app/)** `FastAPI` `React` `Groq (Llama 3.1)` `PostgreSQL`
-Branching narrative game engine where users enter a theme, and the backend generates a 7-node decision-tree story via LLM in about 5 seconds. Fully playable in browser.
+Branching narrative game engine that generates a seven-node decision-tree story from a user-supplied theme in about five seconds. Fully playable in the browser.
 
 ---
 
 ### In Progress
 
 **Trippy** `Django REST Framework` `Django Channels` `Flutter` `JWT`
-Ride-sharing platform for female riders in Pakistan, with separate rider/driver apps, real-time WebSocket location tracking, and a full booking flow.
+Ride-sharing platform for female riders in Pakistan, with separate rider and driver apps, real-time WebSocket location tracking and a full booking flow.
 
 **Codebase Visualizer** `FastAPI` `React`
 Dependency graph explorer for GitHub projects.
@@ -41,4 +44,4 @@ Dependency graph explorer for GitHub projects.
 
 ### Contact
 
-Email: [noorbbutt@gmail.com](mailto:noorbbutt@gmail.com), Karachi, Pakistan
+[noorbbutt@gmail.com](mailto:noorbbutt@gmail.com) · Karachi, Pakistan
