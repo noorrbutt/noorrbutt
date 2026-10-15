@@ -34,8 +34,8 @@ Branching narrative game engine that generates a seven-node decision-tree story 
 
 ### In Progress
 
-**Trippy** `Django REST Framework` `Django Channels` `Flutter` `JWT`
-Ride-sharing platform for female riders in Pakistan, with separate rider and driver apps, real-time WebSocket location tracking and a full booking flow.
+**Forkast** `React Native` `Expo` `PostgreSQL` `FastAPI`
+Food logging that reads more like a diary than a tracker. You log what you ate, the app estimates the calories from the dish and its category, and the dashboard tells you the things you would actually want to know.
 
 **Codebase Visualizer** `FastAPI` `React`
 Dependency graph explorer for GitHub projects.
